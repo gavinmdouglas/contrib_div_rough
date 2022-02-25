@@ -163,4 +163,3 @@ calc_diversity[["pielous_evenness"]] <- pielous_evenness
 calc_diversity[["gini_simpson_index"]] <- gini_simpson_index
 calc_diversity[["simpsons_evenness"]] <- simpsons_evenness
 calc_diversity[["inverse_simpson_index"]] <- inverse_simpson_index
-
